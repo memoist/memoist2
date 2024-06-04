@@ -1,5 +1,15 @@
-> [!IMPORTANT]  
+> [!IMPORTANT]
+>
+> # Recommendation
+>
 > Consider using [MemoWise](https://github.com/panorama-ed/memo_wise) instead, as it is maintained, fully tested, provides thread safety guarantees, and is much, much faster.
+>
+> # Other Alternatives
+>
+> In case you need a tool with this feature set that is currently maintained, check out:
+> * https://github.com/makandra/memoized
+> * https://github.com/honzasterba/memoist
+> * https://github.com/tycooon/memery
 
 > [!TIP]  
 > Seriously though, read the important note above.
