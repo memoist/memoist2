@@ -9,7 +9,7 @@
 > In case you need a tool with this feature set that is currently maintained, check out:
 > * https://github.com/makandra/memoized
 > * https://github.com/honzasterba/memoist
-> * https://github.com/tycooon/memery
+> * https://github.com/AlexWayfer/alt_memery
 
 > [!TIP]  
 > Seriously though, read the important note above.
