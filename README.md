@@ -1,3 +1,12 @@
+> [!IMPORTANT]  
+> Consider using [MemoWise](https://github.com/panorama-ed/memo_wise) instead, as it is maintained, fully tested, provides thread safety guarantees, and is much, much faster.
+
+> [!TIP]  
+> Seriously though, read the important note above.
+
+> [!WARNING]  
+> If you must continue - be aware that this is unmaintained software.
+
 memoist2
 ========
 
